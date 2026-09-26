@@ -1,0 +1,5 @@
+FROM devzspy/openspy-core:latest
+EXPOSE 80
+EXPOSE 443
+EXPOSE 27900
+EXPOSE 28910
