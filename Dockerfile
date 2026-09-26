@@ -1,4 +1,4 @@
-FROM github.com/devzspy/gamespy-openspy-core:latest
+FROM github.com/devzspy/gamespy-openspy-core
 EXPOSE 80
 EXPOSE 443
 EXPOSE 27900
