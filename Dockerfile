@@ -1,4 +1,4 @@
-FROM devzspy/GameSpy-Openspy-Core:latest
+FROM devzspy/gamespy-openspy-core:latest
 EXPOSE 80
 EXPOSE 443
 EXPOSE 27900
